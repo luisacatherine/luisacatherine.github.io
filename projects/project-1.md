@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/logo-alana.png
 title: Alana
 permalink: projects/alana
 # All dates must be YYYY-MM-DD format!
