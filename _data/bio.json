@@ -39,15 +39,7 @@
 	},
 	"interests": [
 		{
-			"name": "internet of things",
-			"keywords": ["Arduino", "TI MSP430"]
-		},
-		{
-			"name": "data mining",
-			"keywords": []
-		},
-		{
-			"name": "artificial intelligence",
+			"name": "software development",
 			"keywords": []
 		}
 	],
@@ -93,6 +85,15 @@
 			"endDate": "2016-07-31",
 			"gpa": "3.43",
 			"courses": []
+		},
+		{
+			"institution": "Alterra Academy",
+			"area": "",
+			"studyType": "Fullstack Immersive Program",
+			"startDate": "2019-01-17",
+			"endDate": "2019-04-19",
+			"gpa": "",
+			"courses": []
 		}
 	],
 	"work": [
@@ -116,43 +117,21 @@
 	],
 	"volunteer": [
 		{
-			"organization": "Center for Renewable Energy and Island Sustainability",
-			"website": "http://manoa.hawaii.edu/reis",
-			"position": "Software Developer",
-			"startDate": "2016-01-01",
-			"endDate": "Present",
-			"summary": "Lead developer for weather sensing project",
-			"highlights": [
-				"Design firmware for distributed weather sensor network",
-				"Maintain custom data collection and storage infrastructure"
-			]
-		},
-		{
-			"organization": "",
+			"organization": "Asian Youth Day 2017",
 			"website": "",
-			"position": "Professional organization involvement",
-			"startDate": "",
-			"endDate": "",
+			"position": "General Secretary",
+			"startDate": "2016-10-01",
+			"endDate": "2017-08-31",
 			"summary": "",
-			"highlights": [
-				"Chair, ACM Manoa, 2016-Present",
-				"Member, IEEE Student Branch, 2014-Present",
-				"Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-			]
+			"highlights": []
 		}
 	],
 	"awards": [
 		{
-			"title": "B+ Scholarship",
-			"date": "2013-Present",
-			"awarder": "State of Hawaii",
-			"summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-		},
-		{
-			"title": "First place",
-			"date": "2015",
-			"awarder": "University of Hawaii Micromouse Competition",
-			"summary": "My team won first place in 2015.  See my portfolio site for more details."
+			"title": "Runner",
+			"date": "2020-12-31",
+			"awarder": "Alterra Indonesia",
+			"summary": "Top Performer."
 		}
 	],
 	"references": [
