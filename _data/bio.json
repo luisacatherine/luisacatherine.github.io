@@ -1,18 +1,18 @@
 {
 	"basics": {
 		"name": "Luisa Catherine",
-		"label": "Student",
-		"picture": "https://techfolios.github.io/template/images/molly.png",
+		"label": "Software Engineer",
+		"picture": "https://luisacatherine.github.io/images/1x1.jpg",
 		"email": "luisacatherine@gmail.com",
-		"phone": "808-333-4444",
+		"phone": "+6285222876678",
 		"website": "https://luisacatherine.github.io",
-		"summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+		"summary": "An accomplished Software Engineer with fluency in multiple programming languages such as Go, Javascript, Python, PHP, and more. Effective and creative leader, who achieved Top Performer status twice and led a team of 4 Software Engineers which resulted in revenue increase within 6 months. Ranked 1st out of 17 graduates in Fullstack Immersive Program by Alterra Academy. Adept in analytical thinking and creative problem-solving.",
 		"location": {
 			"address": "",
 			"postalCode": "40226",
-			"city": "Honolulu",
-			"countryCode": "USA",
-			"region": "Hawaii"
+			"city": "Bandung",
+			"countryCode": "Indonesia",
+			"region": "Jawa Barat"
 		},
 		"profiles": [
 			{
@@ -22,13 +22,13 @@
 			},
 			{
 				"network": "linkedin",
-				"username": "mollymaluhia",
-				"url": "http://linkedin.com/in/changeme"
+				"username": "luisa-catherine",
+				"url": "http://linkedin.com/in/luisa-catherine"
 			},
 			{
 				"network": "twitter",
-				"username": "mollymal",
-				"url": "http://twitter.com/changeme"
+				"username": "luisacatherine",
+				"url": "http://twitter.com/luisacatherine"
 			},
 			{
 				"network": "instagram",
@@ -53,50 +53,64 @@
 	],
 	"skills": [
 		{
-			"name": "Languages and Frameworks",
+			"name": "Languages",
 			"level": "",
-			"keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Common Lisp"]
+			"keywords": [
+				"Javascript",
+				"Go",
+				"HTML/CSS",
+				"Dart",
+				"Python",
+				"PHP",
+				"SQL"
+			]
+		},
+		{
+			"name": "Frameworks",
+			"level": "",
+			"keywords": [
+				"Git",
+				"React.js",
+				"Nuxt.js",
+				"Flutter",
+				"Nest.js",
+				"Bootstrap",
+				"Laravel"
+			]
 		},
 		{
 			"name": "Toolsets/OS",
 			"level": "",
-			"keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
+			"keywords": ["MacOS", "Ubuntu", "Git/GitHub"]
 		}
 	],
 	"education": [
 		{
-			"institution": "University of Hawaii, Honolulu, HI",
-			"area": "Computer Science (expected Spring, 2018)",
+			"institution": "Institut Teknologi Bandung",
+			"area": "Electrical Engineering",
 			"studyType": "B.S.",
-			"startDate": "2013-09-01",
-			"endDate": "Present",
-			"gpa": "",
+			"startDate": "2012-07-01",
+			"endDate": "2016-07-31",
+			"gpa": "3.43",
 			"courses": []
 		}
 	],
 	"work": [
 		{
-			"company": "UH Manoa Board of Publications",
-			"position": "Web Developer",
-			"website": "",
-			"startDate": "2015-08-01",
+			"company": "Alterra Indonesia",
+			"position": "Software Engineer",
+			"website": "https://alterra.id",
+			"startDate": "2019-04-22",
 			"endDate": "Present",
-			"summary": "Head of online presence for Ka Leo",
-			"highlights": [
-				"Maintain, update, and oversee official college newspaper website",
-				"Drive, design and build student-community projects for UH Manoa"
-			]
-		},
-		{
-			"company": "UH Information Technology Services",
-			"position": "Help Desk Consultant",
-			"website": "http://www.hawaii.edu/its/",
-			"startDate": "2015-01-01",
-			"endDate": "2016-03-15",
 			"summary": "",
 			"highlights": [
-				"Troubleshoot software, hardware and networking issues over the phone",
-				"Answer phone and email responses to the ITS Help Desk"
+				"Lead a team of 4 software engineers during the development of company software application, helped the company connect with a new biller, resulting in revenue increase within 6 months.",
+				"Contributed software engineering expertise in the development of products through the software lifecycle, from requirements definition through successful deployment.",
+				"Designed and maintained custom REST APIs built in Go, NodeJS, and PHP.",
+				"Designed and maintained web apps built in Nuxt.js and React.js.",
+				"Developed white-label mobile apps with Flutter.",
+				"Developed deployment scripts for white label apps from Github to GCP.",
+				"Awarded “Runner” (Top Performer) twice for performing great work."
 			]
 		}
 	],
